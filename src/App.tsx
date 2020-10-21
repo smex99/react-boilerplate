@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h3>Dashboard</h3>
+      <h1>React Boilerplate</h1>
     </div>
   );
 }
